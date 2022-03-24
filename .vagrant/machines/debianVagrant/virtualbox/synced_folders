@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/guilhermetourinho/Downloads/CTD_2021-2023/3B_infraestrutura1","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
